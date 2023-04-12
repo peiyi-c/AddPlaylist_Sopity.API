@@ -1,11 +1,14 @@
 
 ## App Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Users can use this app to search songs, create new playlists and have it transferred to your Spotify account.
 
-You can visit the application here: http://helpless-test.surge.sh/
+[You can visit this application here.](http://helpless-test.surge.sh/)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
@@ -76,7 +79,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Other Source
 
-https://jasonwatmore.com/post/2022/06/22/react-access-environment-variables-from-dotenv-env
-https://stackoverflow.com/questions/49579028/adding-an-env-file-to-a-react-project
+About .evn files:
+
+[React - Access Environment Variables from dotenv](https://jasonwatmore.com/post/2022/06/22/react-access-environment-variables-from-dotenv-env), 
+[Adding an .env file to a React project](https://stackoverflow.com/questions/49579028/adding-an-env-file-to-a-react-project)
 
 
