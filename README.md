@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Intro
+
+Users can use this app to search songs, create new playlists and have it transferred to your Spotify account.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
