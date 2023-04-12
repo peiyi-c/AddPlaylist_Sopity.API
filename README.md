@@ -1,12 +1,11 @@
-# Getting Started with Create React App
+
+### App Introduction
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## App Intro
-
 Users can use this app to search songs, create new playlists and have it transferred to your Spotify account.
 
-
+You can visit the application here: http://helpless-test.surge.sh/
 
 ## Available Scripts
 
